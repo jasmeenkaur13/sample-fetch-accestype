@@ -1,0 +1,17 @@
+{
+  "name": "node-token",
+  "version": "1.0.0",
+  "description": "sample token return on login",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Jasmeen Kaur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5"
+  }
+}
