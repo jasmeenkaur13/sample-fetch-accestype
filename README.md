@@ -1,4 +1,4 @@
-# node-soap-example
+# node-fetch-accessType
 A simple API server to return the access type according to the username entered
 
 
